@@ -1,0 +1,7 @@
+---
+title: "Solución"
+author: "José C. Pernías"
+date: '`r format(Sys.Date(), "%e de %B de %Y")`'
+---
+
+## Resolución

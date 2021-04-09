@@ -1,0 +1,16 @@
+---
+title: "La dimensión del sector público"
+author: "José Pernías"
+date: '`r format(Sys.Date(), "%e de %B de %Y")`'
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{r child="instructions.Rmd"}
+```
+
+```{r child="solution.Rmd"}
+```
+

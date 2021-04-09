@@ -1,12 +1,8 @@
 ---
-title: "La dimensión del sector público"
+title: "Instrucciones"
 author: "José C. Pernías"
 date: '`r format(Sys.Date(), "%e de %B de %Y")`'
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 ## Planteamiento
 
