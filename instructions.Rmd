@@ -2,13 +2,6 @@
 title: "La dimensión del sector público"
 author: "José C. Pernías"
 date: '`r format(Sys.Date(), "%e de %B de %Y")`'
-output: 
-  html_document: 
-    toc: yes
-    toc_depth: 3
-    toc_float: yes
-    highlight: pygments
-    theme: yeti
 ---
 
 ```{r setup, include=FALSE}
